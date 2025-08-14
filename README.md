@@ -1,4 +1,4 @@
 # karandemo
 This is my first git repository
 <br>
-Author- Karan Khabale
+Author- Karan Ceo
